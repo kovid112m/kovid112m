@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Machine Learning & DSA**
 
-- 📫 How to reach me **kovid20@gmail.com**
+- 📫 How to reach me **kovids@u.nus.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
