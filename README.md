@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kovid112m?tab=projects](https://github.com/kovid112m?tab=projects)
 
-- 💬 Ask me about **Machine Learning & DSA**
+- 💬 Ask me about **Something that gives me an opportunity to learn more!**
 
 - 📫 How to reach me **kovids@u.nus.edu**
 
