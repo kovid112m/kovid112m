@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kovid Sharma</h1>
-<h3 align="center">A passionate Computer Science Student and an avid learner of different Technologies</h3>
+<h3 align="center">Currently pursuing MS In Business Analytics @ National University of Singapore.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kovid112m&label=Profile%20views&color=0e75b6&style=flat" alt="kovid112m" /> </p>
 
-- 🌱 I’m currently learning **Javascript & ReactJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kovid112m?tab=projects](https://github.com/kovid112m?tab=projects)
 
